@@ -1,0 +1,10 @@
+fastapi==0.115.8
+uvicorn==0.15.0
+python-multipart==0.0.5
+openai-whisper==20231117
+SQLAlchemy==1.4.23
+pydantic==2.10.6
+python-jose==3.3.0
+passlib==1.7.4
+bcrypt==3.2.0
+ffmpeg-python==0.2.0
